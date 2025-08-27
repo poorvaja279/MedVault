@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Env files (secrets)
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Build folders (React frontend)
+frontend/medvault-frontend/build/
+
+# Hardhat cache and artifacts
+smart-contracts/cache/
+smart-contracts/artifacts/
+
+# OS files
+.DS_Store
+Thumbs.db
